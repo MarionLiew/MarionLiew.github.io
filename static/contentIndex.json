@@ -1,1 +1,1 @@
-{"0-数据库.base":{"slug":"0-数据库.base","filePath":"0 数据库.base.md","title":"0 数据库.base","links":[],"tags":[],"content":""},"index":{"slug":"index","filePath":"index.md","title":"index","links":[],"tags":[],"content":"欢迎来到我的知识库\n这里汇集了我在 Obsidian 中积累的全部笔记，自动同步、实时更新。\n\n最近更新：$(date ’+%F %T’)\n总计文档：$(ls ~/quartz/content/*.md | wc -l) 篇\n"}}
+{"index":{"slug":"index","filePath":"index.md","title":"index","links":[],"tags":[],"content":"欢迎来到我的知识库\n这里汇集了我在 Obsidian 中积累的全部笔记，自动同步、实时更新。\n\n最近更新：$(date ’+%F %T’)\n总计文档：$(ls ~/quartz/content/*.md | wc -l) 篇\n"}}
