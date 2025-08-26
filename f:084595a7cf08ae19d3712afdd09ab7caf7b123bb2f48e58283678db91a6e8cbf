@@ -1,0 +1,23 @@
+Token
+```
+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
+```
+Generating public/private ed25519 key pair.
+Your identification has been saved in /home/ubuntu/.ssh/id_ed25519
+Your public key has been saved in /home/ubuntu/.ssh/id_ed25519.pub
+The key fingerprint is:
+SHA256:Z3bOFsI/Ya6wB7giLyzpBkCz7RroJtobo6xR1JdCvGA ubuntu@VM-24-15-ubuntu
+The key's randomart image is:
++--[ED25519 256]--+
+|   ..            |
+| oEo.  .         |
+|..=.o.o          |
+|.o ..o   .       |
+|o o    .S * =    |
+|oo .  . .+ O o   |
+|+o=    ...  B    |
+|=O+o. .  o.o .   |
+|@+o=..  ...      |
++----[SHA256]-----+
+ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIE5mYII72LHRk8TVMY7D4usv8dhiucbu6YBSZj6y3CdS ubuntu@VM-24-15-ubuntu
+Cloning into 'MarionLiew.github.io'...
