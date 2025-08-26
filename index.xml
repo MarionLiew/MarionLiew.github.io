@@ -6,65 +6,47 @@
       <description>Last 10 notes on Quartz 4</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
-    <title>测试忽略.ignore</title>
-    <link>https://quartz.jzhao.xyz/%E6%B5%8B%E8%AF%95%E5%BF%BD%E7%95%A5.ignore</link>
-    <guid>https://quartz.jzhao.xyz/%E6%B5%8B%E8%AF%95%E5%BF%BD%E7%95%A5.ignore</guid>
-    <description><![CDATA[  ]]></description>
-    <pubDate>Tue, 26 Aug 2025 03:40:26 GMT</pubDate>
-  </item><item>
-    <title>笔记配置</title>
-    <link>https://quartz.jzhao.xyz/%E7%AC%94%E8%AE%B0%E9%85%8D%E7%BD%AE</link>
-    <guid>https://quartz.jzhao.xyz/%E7%AC%94%E8%AE%B0%E9%85%8D%E7%BD%AE</guid>
-    <description><![CDATA[ 这个不用管，备份的 Passphrase of Setup-URI is: dark-forest Setup-URI: obsidian://setuplivesync?settings=%25226165c37c13117e6600d1bc01000000831b2e6b178243d388e9f96f750a2fdcx0PvTOftd8rCxDyhbah41eh2EMI%2FQQAIXPJhgn%2BeMwW3nBU%2BHunVYdOw1k39FnLpbTzQ1naWuWNaeyUg2Cm55LH7qBUZtpQMDghAH3%2B3SnVyIM9nVFZWdfEDhoHJpmXrYS... ]]></description>
-    <pubDate>Tue, 26 Aug 2025 03:40:26 GMT</pubDate>
-  </item><item>
-    <title>1 欢迎</title>
-    <link>https://quartz.jzhao.xyz/1-%E6%AC%A2%E8%BF%8E</link>
-    <guid>https://quartz.jzhao.xyz/1-%E6%AC%A2%E8%BF%8E</guid>
-    <description><![CDATA[ 这是你的新仓库。 写点笔记，创建链接，或者试一试导入器插件! 当你准备好了，就将该笔记文件删除，使这个仓库为你所用。. ]]></description>
-    <pubDate>Tue, 26 Aug 2025 03:40:26 GMT</pubDate>
-  </item><item>
-    <title>创建链接</title>
-    <link>https://quartz.jzhao.xyz/%E5%88%9B%E5%BB%BA%E9%93%BE%E6%8E%A5</link>
-    <guid>https://quartz.jzhao.xyz/%E5%88%9B%E5%BB%BA%E9%93%BE%E6%8E%A5</guid>
-    <description><![CDATA[  ]]></description>
-    <pubDate>Tue, 26 Aug 2025 03:40:26 GMT</pubDate>
-  </item><item>
-    <title>未命名 1</title>
-    <link>https://quartz.jzhao.xyz/%E6%9C%AA%E5%91%BD%E5%90%8D-1</link>
-    <guid>https://quartz.jzhao.xyz/%E6%9C%AA%E5%91%BD%E5%90%8D-1</guid>
-    <description><![CDATA[ 我打打打我. ]]></description>
-    <pubDate>Tue, 26 Aug 2025 03:40:25 GMT</pubDate>
-  </item><item>
-    <title>不定积分基本公式</title>
-    <link>https://quartz.jzhao.xyz/%E4%B8%8D%E5%AE%9A%E7%A7%AF%E5%88%86%E5%9F%BA%E6%9C%AC%E5%85%AC%E5%BC%8F</link>
-    <guid>https://quartz.jzhao.xyz/%E4%B8%8D%E5%AE%9A%E7%A7%AF%E5%88%86%E5%9F%BA%E6%9C%AC%E5%85%AC%E5%BC%8F</guid>
-    <description><![CDATA[ 不定积分基本公式 \int kdx=kx+c \int x^ndx=\frac{x(n+1)}{n+1}+c \int e^xdx=e^x+c \int a^xdx=a^x \times(\frac{1}{\\lna})+c \int \frac{1}{x}dx=\ln |x|+c \int \sin xdx=−\cos x+c \int \cos xdx=\sin x+c \int \tan xdx=− \ln |\cos x|+c \int \cot xdx=\ln |\sin x|+c \int \csc xdx=\ln |\csc x+\cot x|+c \int \sec xdx=\... ]]></description>
-    <pubDate>Tue, 26 Aug 2025 03:40:25 GMT</pubDate>
-  </item><item>
-    <title>笔记同步配置</title>
-    <link>https://quartz.jzhao.xyz/%E7%AC%94%E8%AE%B0%E5%90%8C%E6%AD%A5%E9%85%8D%E7%BD%AE</link>
-    <guid>https://quartz.jzhao.xyz/%E7%AC%94%E8%AE%B0%E5%90%8C%E6%AD%A5%E9%85%8D%E7%BD%AE</guid>
-    <description><![CDATA[ 这个不用管，备份的 Passphrase of Setup-URI is: dark-forest Setup-URI: obsidian://setuplivesync?settings=%25226165c37c13117e6600d1bc01000000831b2e6b178243d388e9f96f750a2fdcx0PvTOftd8rCxDyhbah41eh2EMI%2FQQAIXPJhgn%2BeMwW3nBU%2BHunVYdOw1k39FnLpbTzQ1naWuWNaeyUg2Cm55LH7qBUZtpQMDghAH3%2B3SnVyIM9nVFZWdfEDhoHJpmXrYS... ]]></description>
-    <pubDate>Tue, 26 Aug 2025 03:40:25 GMT</pubDate>
-  </item><item>
-    <title>测试笔记</title>
-    <link>https://quartz.jzhao.xyz/%E6%B5%8B%E8%AF%95%E7%AC%94%E8%AE%B0</link>
-    <guid>https://quartz.jzhao.xyz/%E6%B5%8B%E8%AF%95%E7%AC%94%E8%AE%B0</guid>
-    <description><![CDATA[ 测试子笔记. ]]></description>
-    <pubDate>Tue, 26 Aug 2025 03:40:25 GMT</pubDate>
-  </item><item>
-    <title>马太效应</title>
-    <link>https://quartz.jzhao.xyz/%E9%A9%AC%E5%A4%AA%E6%95%88%E5%BA%94</link>
-    <guid>https://quartz.jzhao.xyz/%E9%A9%AC%E5%A4%AA%E6%95%88%E5%BA%94</guid>
-    <description><![CDATA[  Status: Processing Importance: Middle 不均衡情况下，穷者愈穷，富者愈富。. ]]></description>
-    <pubDate>Tue, 26 Aug 2025 03:40:24 GMT</pubDate>
+    <title>规模报酬函数</title>
+    <link>https://quartz.jzhao.xyz/%E8%A7%84%E6%A8%A1%E6%8A%A5%E9%85%AC%E5%87%BD%E6%95%B0</link>
+    <guid>https://quartz.jzhao.xyz/%E8%A7%84%E6%A8%A1%E6%8A%A5%E9%85%AC%E5%87%BD%E6%95%B0</guid>
+    <description><![CDATA[  aliases: 柯布道格拉斯函数 y=A\cdot L^\alpha k^\beta \alpha+\beta=1,规模报酬不变 \alpha+\beta&gt;1,规模报酬递增 \alpha+\beta&lt;1,规模报酬递减. ]]></description>
+    <pubDate>Tue, 26 Aug 2025 03:41:26 GMT</pubDate>
   </item><item>
     <title>secrets/Github Page</title>
     <link>https://quartz.jzhao.xyz/secrets/Github-Page</link>
     <guid>https://quartz.jzhao.xyz/secrets/Github-Page</guid>
     <description><![CDATA[ Token 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 Generating public/private ed25519 key pair. ]]></description>
-    <pubDate>Tue, 26 Aug 2025 03:40:24 GMT</pubDate>
+    <pubDate>Tue, 26 Aug 2025 03:41:26 GMT</pubDate>
+  </item><item>
+    <title>Github Page.md</title>
+    <link>https://quartz.jzhao.xyz/Github-Page.md</link>
+    <guid>https://quartz.jzhao.xyz/Github-Page.md</guid>
+    <description><![CDATA[ 我打打我的娃. ]]></description>
+    <pubDate>Tue, 26 Aug 2025 03:41:26 GMT</pubDate>
+  </item><item>
+    <title>未命名</title>
+    <link>https://quartz.jzhao.xyz/%E6%9C%AA%E5%91%BD%E5%90%8D</link>
+    <guid>https://quartz.jzhao.xyz/%E6%9C%AA%E5%91%BD%E5%90%8D</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Tue, 26 Aug 2025 03:41:25 GMT</pubDate>
+  </item><item>
+    <title>1 欢迎</title>
+    <link>https://quartz.jzhao.xyz/1-%E6%AC%A2%E8%BF%8E</link>
+    <guid>https://quartz.jzhao.xyz/1-%E6%AC%A2%E8%BF%8E</guid>
+    <description><![CDATA[ 这是你的新仓库。 写点笔记，创建链接，或者试一试导入器插件! 当你准备好了，就将该笔记文件删除，使这个仓库为你所用。. ]]></description>
+    <pubDate>Tue, 26 Aug 2025 03:41:25 GMT</pubDate>
+  </item><item>
+    <title>幼稚产业对发展中国家的意义</title>
+    <link>https://quartz.jzhao.xyz/%E5%B9%BC%E7%A8%9A%E4%BA%A7%E4%B8%9A%E5%AF%B9%E5%8F%91%E5%B1%95%E4%B8%AD%E5%9B%BD%E5%AE%B6%E7%9A%84%E6%84%8F%E4%B9%89</link>
+    <guid>https://quartz.jzhao.xyz/%E5%B9%BC%E7%A8%9A%E4%BA%A7%E4%B8%9A%E5%AF%B9%E5%8F%91%E5%B1%95%E4%B8%AD%E5%9B%BD%E5%AE%B6%E7%9A%84%E6%84%8F%E4%B9%89</guid>
+    <description><![CDATA[ 1.所谓幼稚产业，是指处于成长阶段尚未成熟，但具有潜在优势的产业。 2.幼稚产业保护的论点通常是以尚未实现的内部规模经济或外部规模经济的存在为前提，因此判断幼稚产业必须比较该产业现在与未来的发展。 3.标准：成本差距标准、利益补偿标准、外部经济标准 4.对发展中国家经济发展的意义：在大多数发展中国家，在面对来自发达工业化国家制成品出口的猛烈冲击下，为保护本国新生的制成品产业的生存与发展，对制成品进口征收关税也许是必要的。这是因为，由关税保护所造成的可能只是一种短期的损失，假如本国的新生产业能够因此而在不太长的时间里得到迅速的发展，那么以这种短期损失来换取长期的利益还是值得的。即便如此，发展中国... ]]></description>
+    <pubDate>Tue, 26 Aug 2025 03:41:25 GMT</pubDate>
+  </item><item>
+    <title>index</title>
+    <link>https://quartz.jzhao.xyz/</link>
+    <guid>https://quartz.jzhao.xyz/</guid>
+    <description><![CDATA[ 欢迎来到我的知识库 这里汇集了我在 Obsidian 中积累的全部笔记，自动同步、实时更新。 最近更新：$(date ’+%F %T’) 总计文档：$(ls ~/quartz/content/*.md | wc -l) 篇 . ]]></description>
+    <pubDate>Mon, 25 Aug 2025 05:34:50 GMT</pubDate>
   </item>
     </channel>
   </rss>
